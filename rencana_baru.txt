@@ -1,0 +1,2 @@
+- Belajar mengenai HTML Form dan Validation
+- Belajar mengenai backend
