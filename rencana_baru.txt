@@ -1,2 +1,5 @@
 - Belajar mengenai HTML Form dan Validation
 - Belajar mengenai backend
+  * Node Js
+  * Golang
+  
