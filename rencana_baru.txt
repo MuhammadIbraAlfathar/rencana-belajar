@@ -1,2 +1,4 @@
 - Belajar mengenai HTML Form dan Validation
 - Belajar mengenai backend
+  * PHP
+  * Node Js.
